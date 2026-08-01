@@ -1,101 +1,149 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">B.Tech Information Technology Student | Full Stack Developer | AWS Cloud Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Ravi Kumar
+
+### Full Stack Developer • AWS Cloud Enthusiast • Java Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Ravi Kumar
+Education: B.Tech Information Technology
+Focus:
+  - Full Stack Development
+  - Java
+  - AWS Cloud
+  - DevOps
+Learning:
+  - MERN Stack
+  - Next.js
+  - Docker
+Goal:
+  - Software Engineer
+```
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Information Technology Student
-- 💻 Passionate about Full Stack Web Development
-- ☁️ Learning AWS Cloud & DevOps
-- 🌱 Currently exploring MERN Stack & Next.js
-- 🚀 Open Source Contributor
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a Software Engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚪 Visitor Gate Pass System
-Visitor Management System built using MERN Stack.
-
-### 🌍 Smart Sustainable City Helper
-Smart City platform promoting sustainability and SDG Goals.
-
-### 🚍 Real-Time Bus Tracking System
-Live bus tracking with maps and real-time updates.
-
-### 🚗 NexGen Customs
-Modern car customization platform with 3D visualization.
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smsanjay991-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsanjay991-cell&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smsanjay991-cell&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smsanjay991-cell&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-<a href="mailto:yourmail@gmail.com">Email</a>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=smsanjay991-cell&theme=algolia&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
 
-## 💡 Quote
+# 🐍 Contribution Snake
 
-> *"Code. Learn. Build. Repeat."*
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/smsanjay991-cell/smsanjay991-cell/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+✨ Visitor Gate Pass System
+
+🌍 Smart Sustainable City Helper
+
+🚍 Real-Time Bus Tracking
+
+🚗 NexGen Customs
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+</div>
