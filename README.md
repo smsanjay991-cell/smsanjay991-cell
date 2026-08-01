@@ -86,18 +86,14 @@ Goal:
 
 # 🚀 Featured Projects
 
-🚗 **NexGen Customs**  
-Modern Car Customization Platform with 3D Visualization
-
-🌍 **Smart Sustainable City Helper**  
-Smart City Web Application promoting Sustainability
+🚗 ****AI Government Scheme Finder Chatbot****
+Many people don't know which government schemes they are eligible for because information is spread across multiple portals and eligibility rules are complex. AI-based scheme navigators are an emerging solution in this area
 
 🚍 **Real-Time Bus Tracking System**  
 Live Bus Tracking with Maps & Notifications
 
-🚪 **Visitor Gate Pass System**  
-Secure Visitor Management System using MERN Stack
-
+🚪 **Crime Complaint Portal**  
+Filing complaints can be confusing and time-consuming. AI can help draft complaints, classify crime types, and guide users. Similar ideas are being explored in research and pilot projects.
 ---
 
 # 📊 GitHub Statistics
@@ -125,14 +121,6 @@ Secure Visitor Management System using MERN Stack
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smsanjay991-cell&theme=algolia&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 > **Note:** This animation works only after setting up a GitHub Actions workflow.
@@ -148,12 +136,12 @@ Secure Visitor Management System using MERN Stack
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="www.linkedin.com/in/sanjay-s-m-b443773a8"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:s.m.sanjay991@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
