@@ -24,7 +24,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-Name: Ravi Kumar
+Name: Sanjay S.M
 Education: B.Tech Information Technology
 Location: India
 
