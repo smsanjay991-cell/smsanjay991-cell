@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Ravi Kumar
+# Hi 👋, I'm SANJAY S M
 
-### Full Stack Developer • AWS Cloud Enthusiast • Java Developer
+### Full Stack Developer • AWS Cloud Enthusiast • Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
 
@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Ravi Kumar
+Name: SANJAY S M
 Education: B.Tech Information Technology
 Focus:
   - Full Stack Development
@@ -24,6 +24,7 @@ Learning:
   - MERN Stack
   - Next.js
   - Docker
+   
 Goal:
   - Software Engineer
 ```
@@ -130,11 +131,11 @@ Goal:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/sanjay-s-m-b443773a8">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:s.m.sanjay991@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
