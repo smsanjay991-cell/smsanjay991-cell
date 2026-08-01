@@ -121,28 +121,19 @@ Filing complaints can be confusing and time-consuming. AI can help draft complai
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** This animation works only after setting up a GitHub Actions workflow.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/smsanjay991-cell/smsanjay991-cell/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/sanjay-s-m-b443773a8">
 <img src="www.linkedin.com/in/sanjay-s-m-b443773a8"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:s.m.sanjay991@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="www.linkedin.com/in/sanjay-s-m-b443773a8"/>
 </a>
 
 </p>
