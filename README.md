@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Ravi%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sanjay%20S.M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
 
 <h1 align="center">⚡ Welcome to My GitHub Profile ⚡</h1>
