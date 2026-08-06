@@ -1,149 +1,70 @@
-<!-- ========================= -->
-<!--        HERO BANNER        -->
-<!-- ========================= -->
+# Hi 👋, I'm SANJAy S M
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sanjay%20S.M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
+![](https://komarev.com/ghpvc/?username=kishore-1006&color=blue&style=for-the-badge)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Kishore;Information+Technology+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+## 💻 Information Technology Student
+
+I'm passionate about Full Stack Development and enjoy building real-world web applications.
+
+### 🚀 Currently Working On
+-agri rental management platform
+-banking management system
+
+### 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- React.js
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/kishore-1006
+- LinkedIn: https://linkedin.com/in/kishore-1006
+---
+⭐ Thanks for visiting my profile!
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,vscode" />
 </p>
 
-<h1 align="center">⚡ Welcome to My GitHub Profile ⚡</h1>
+## 📊 GitHub Stats
+
+![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore-1006&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-1006&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kishore-1006&theme=tokyonight&no-frame=true&row=1&column=6)
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;AWS+Cloud+Enthusiast;Open+Source+Contributor;MERN+Stack+Developer;Always+Learning+New+Things;Turning+Ideas+Into+Reality" />
+  <img src="https://streak-stats.demolab.com?user=kishore-1006&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smsanjay991-cell&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/smsanjay991-cell?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/smsanjay991-cell?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blueviolet?style=for-the-badge"/>
-</p>
+## 📈 Contribution Graph
+
+[![Kishore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishore-1006&theme=tokyo-night)](https://github.com/kishore-1006)
 
 ---
 
-# 👨‍💻 About Me
-
-```yaml
-Name: Sanjay S.M
-Education: B.Tech Information Technology
-Location: India
-
-Focus:
-  - Full Stack Development
-  - Java Development
-  - AWS Cloud
-  - DevOps
-
-Currently Learning:
-  - MERN Stack
-  - Next.js
-  - Docker
-  - System Design
-
-Goal:
-  - Software Engineer
-```
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🚗 ****AI Government Scheme Finder Chatbot****
-Many people don't know which government schemes they are eligible for because information is spread across multiple portals and eligibility rules are complex. AI-based scheme navigators are an emerging solution in this area
-
-🚍 **Real-Time Bus Tracking System**  
-Live Bus Tracking with Maps & Notifications
-
-🚪 **Crime Complaint Portal**  
-Filing complaints can be confusing and time-consuming. AI can help draft complaints, classify crime types, and guide users. Similar ideas are being explored in research and pilot projects.
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smsanjay991-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsanjay991-cell&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=smsanjay991-cell&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smsanjay991-cell&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/sanjay-s-m-b443773a8">
-<img src="www.linkedin.com/in/sanjay-s-m-b443773a8"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:s.m.sanjay991@gmail.com">
-<img src="www.linkedin.com/in/sanjay-s-m-b443773a8"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Code • Learn • Build • Repeat"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-</div>
+> "Code. Learn. Build. Repeat. 🚀"
