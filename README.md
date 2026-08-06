@@ -1,8 +1,8 @@
-# Hi 👋, I'm SANJAy S M
+# Hi 👋, I'm SANJAY S M
 
 ![](https://komarev.com/ghpvc/?username=kishore-1006&color=blue&style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Kishore;Information+Technology+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+SANJAY;Information+Technology+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 💻 Information Technology Student
 
