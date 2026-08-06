@@ -34,8 +34,8 @@ I'm passionate about Full Stack Development and enjoy building real-world web ap
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/kishore-1006
-- LinkedIn: https://linkedin.com/in/kishore-1006
+- GitHub: https://github.com/smsanjay991-cell
+- LinkedIn: www.linkedin.com/in/sanjay-s-m-b443773a8
 ---
 ⭐ Thanks for visiting my profile!
 
