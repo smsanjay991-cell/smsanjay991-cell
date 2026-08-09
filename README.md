@@ -45,12 +45,6 @@ I'm passionate about Full Stack Development and enjoy building real-world web ap
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore-1006&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-1006&layout=compact&theme=tokyonight)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=kishore-1006&theme=tokyonight&no-frame=true&row=1&column=6)
