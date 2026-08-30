@@ -147,17 +147,17 @@ MOTTO:
 
 <p align="center">
 
-<a href="https://github.com/smsanjay991-cell">
-  <img src="https://img.shields.io/badge/GITHUB-smsanjay991-cell-121212?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
+  <a href="https://github.com/smsanjay991-cell" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https:// www.linkedin.com/in/sanjay-s-m-b443773a8">
-  <img src="https://img.shields.io/badge/LINKEDIN-SANJAY-SM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sanjay-s-m-b443773a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:s.m.sanjay991@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-CONNECT-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:s.m.sanjay991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </p>
 
