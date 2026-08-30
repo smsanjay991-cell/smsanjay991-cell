@@ -3,10 +3,10 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SIVAGANESH%20L&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20Future%20Engineer&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SANJAY SM%20L&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20Future%20Engineer&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e"/>
 </p>
 
-<h1 align="center">⚡ WELCOME TO MY CYBER UNIVERSE ⚡</h1>
+<h1 align="center">⚡ WELCOME TO MY TECH UNIVERSE ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Dream+•+Build+•+Ship" />
@@ -28,7 +28,7 @@
 
 ---
 
-# 👨‍💻 CYBER PROFILE
+# 👨‍💻 PROFILE
 
 ```yaml
 NAME: Sanjay SM
