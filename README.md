@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SANJAY%20L&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20Future%20Engineer&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SANJAY%20SM&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Devops%20Engineer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20FullStack%20developer&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e"/>
 </p>
 
 <h1 align="center">⚡ WELCOME TO MY TECH UNIVERSE ⚡</h1>
@@ -16,11 +16,11 @@
 
   <img src="https://komarev.com/ghpvc/?username=failxstar&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
-  <a href="mailto:sivag20060525@gmail.com">
+  <a href="mailto: s.m.sanjy991@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-CONNECT-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
+  <a href="https://www.linkedin.com/in/sanjay-s-m-b443773a8">
     <img src="https://img.shields.io/badge/LINKEDIN-SIVAGANESH-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
