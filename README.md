@@ -135,10 +135,9 @@ MOTTO:
 
 # 📈 NEURAL NETWORK
 
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smsanjay991-cell&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=smsanjay991-cell&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
