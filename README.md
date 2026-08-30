@@ -45,10 +45,6 @@ I'm passionate about Full Stack Development and enjoy building real-world web ap
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,vscode" />
 </p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kishore-1006&theme=tokyonight&no-frame=true&row=1&column=6)
-
 ## 🔥 GitHub Streak
 
 <p align="center">
