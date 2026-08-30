@@ -8,24 +8,24 @@
 
 <h1 align="center">⚡ WELCOME TO MY TECH UNIVERSE ⚡</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Dream+•+Build+•+Ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Dream+Build+Ship" />
 </p>
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=failxstar&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=smsanjay991-cell&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
   <a href="mailto:s.m.sanjay991@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-CONNECT-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sanjay-s-m-b443773a8">
+  <a href="https://www.linkedin.com/in/sanjay-s-m-b443773a8" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-SANJAY_SM-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
-
 ---
 
 # 👨‍💻 PROFILE
