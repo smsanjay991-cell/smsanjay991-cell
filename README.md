@@ -55,10 +55,6 @@ I'm passionate about Full Stack Development and enjoy building real-world web ap
   <img src="https://streak-stats.demolab.com?user=kishore-1006&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-[![Kishore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishore-1006&theme=tokyo-night)](https://github.com/kishore-1006)
-
 ---
 
 > "Code. Learn. Build. Repeat. 🚀"
