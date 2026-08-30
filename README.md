@@ -16,12 +16,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=failxstar&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
-  <a href="mailto: s.m.sanjy991@gmail.com">
+  <a href="mailto:s.m.sanjy991@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-CONNECT-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sanjay-s-m-b443773a8">
-    <img src="https://img.shields.io/badge/LINKEDIN-SIVAGANESH-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-SANJAY_SM-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
@@ -126,9 +126,9 @@ MOTTO:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smsanjay991-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsanjay991-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +138,7 @@ MOTTO:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=failxstar&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smsanjay991-cell&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +148,7 @@ MOTTO:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=failxstar&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smsanjay991-cell&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -158,15 +158,15 @@ MOTTO:
 
 <p align="center">
 
-<a href="https://github.com/failxstar">
-  <img src="https://img.shields.io/badge/GITHUB-failxstar-121212?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<a href="https://github.com/smsanjay991-cell">
+  <img src="https://img.shields.io/badge/GITHUB-smsanjay991-cell-121212?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://img.shields.io/badge/LINKEDIN-SIVAGANESH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https:// www.linkedin.com/in/sanjay-s-m-b443773a8">
+  <img src="https://img.shields.io/badge/LINKEDIN-SANJAY-SM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sivag20060525@gmail.com">
+<a href="mailto:s.m.sanjay991@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-CONNECT-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
