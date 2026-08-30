@@ -16,7 +16,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=failxstar&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
 
-  <a href="mailto:s.m.sanjy991@gmail.com">
+  <a href="mailto:s.m.sanjay991@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-CONNECT-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
